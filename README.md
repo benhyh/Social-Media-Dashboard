@@ -25,6 +25,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [TBD](https://your-solution-url.com)
-- Live Site URL: [TBD](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/social-media-dashboard-scss-parcel-VC725uhkN6)
+- Live Site URL: [Netlify](https://gentle-dieffenbachia-cb8639.netlify.app/)
 
