@@ -1,0 +1,17 @@
+{
+  "name": "social-media-dashboard-with-theme-switcher-master",
+  "version": "1.0.0",
+  "source": "social-media-dashboard-with-theme-switcher-master/src/index.html",
+  "scripts": {
+    "start": "parcel social-media-dashboard-with-theme-switcher-master/src/index.html",
+    "build": "parcel build social-media-dashboard-with-theme-switcher-master/src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.12.0",
+    "parcel": "^2.12.0"
+  }
+}
